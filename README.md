@@ -11,8 +11,8 @@ This dashboard provides comprehensive insights into e-commerce sales, including 
 ## Files
 
 - `ECommerce_Sales_Dashboard.pbix`: Power BI dashboard file.
-- `Life_Expectancy_Data.csv`: Original dataset used.
-- `Cleaned_Dataset.csv`: Cleaned and processed dataset.
+- `First csv file : Details.csv.
+- `Second csv file : Orders.csv.
 - `README.md`: Project documentation and usage instructions.
 
 ## How to Use
